@@ -27,7 +27,7 @@ AWS is a secure cloud platform that provides a wide range of global cloud-based 
 - Internet of Things (IoT): Services for connecting and managing IoT devices. Examples include AWS IoT Core and AWS IoT Greengrass.
 
 #### Simple solution example
-![This is an example image](./example.png)
+![example](./example.png)
 
 #### Choosing a service
 - Amazon EC2(https://aws.amazon.com/ec2/): You want complete control over our AWS computing resources.
@@ -55,3 +55,7 @@ variety of popular programming languages. This makes it easy to use AWS in your 
 applications and it also enables you to create applications that deploy and monitor complex 
 systems entirely through code. 
 
+#### AWS Cloud Adoption Framework (AWS CAF)
+The AWS Cloud Adoption Framework (AWS CAF) provides guidance and best practices to help organizations identify gaps in skills and processes. It also helps organizations build a comprehensive approach to cloud computing both across the organization and throughout the IT lifecycle to accelerate successful cloud adoption. 
+#### Six core perspectives
+![perspectice](./6.png)
